@@ -3,8 +3,10 @@
 Game Designer at heart
 I’m currently working on #Sum-Project
 You can find me on: 
-Twitter : <a href="https://twitter.com/BearerPolar" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" color="#1D9BF0" height="100" /></a>
 
+<br>
+<a href="https://twitter.com/BearerPolar" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" color="#1D9BF0" height="100" /></a> 
+<a href="https://www.youtube.com/channel/UCb-Vz27i6W-MBNcBFRq827Q" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" color="#1D9BF0" height="100" /></a> 
 
 <!--
 **Nuskusame/Nuskusame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
