@@ -3,7 +3,7 @@
 Game Designer at heart
 I’m currently working on #Sum-Project
 You can find me on: 
-Twitter : <a href="[URL_REDIRECT](https://twitter.com/BearerPolar)" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" color="#1D9BF0" height="100" /></a>
+Twitter : <a href="https://twitter.com/BearerPolar" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" color="#1D9BF0" height="100" /></a>
 
 
 <!--
