@@ -5,7 +5,7 @@ I’m currently working on #Sum-Project
 You can find me on: 
 
 <br>
-<a href="https://twitter.com/BearerPolar" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" style="color:#1D9BF0" height="100" /></a> 
+<a href="https://twitter.com/BearerPolar" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=ClbD5JTFM7FA&format=png" style="color:#1D9BF0" height="100" /></a> 
 <a href="https://www.youtube.com/channel/UCb-Vz27i6W-MBNcBFRq827Q" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=19318&format=png" height="100" style="color:#1D9BF0;" /></a> 
 
 <!--
